@@ -1,0 +1,10 @@
+.Drumkit {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 900px;
+    margin-top: 200px;
+  }
+  
